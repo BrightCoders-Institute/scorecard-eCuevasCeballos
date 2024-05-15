@@ -8,19 +8,19 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: John Doe # Escribe tu nombre y apellido (1 nombre y 1 apellido)
+  name: Erick Cuevas # Escribe tu nombre y apellido (1 nombre y 1 apellido)
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: john@gmail.com
-  phone: 123 123 1234
+  email: ecuevasceballos@gmail.com
+  phone: 312 199 2881
   website: # No agregar http://
-  linkedin: john # solo tu nombre de usuario de linkedin o dejar en blanco
-  github: john # solo tu nombre de usuario en github o dejar en blanco
-  gitlab: john # solo tu nombre de usuario en gitlab o dejar en blanco
-  bitbucket: john # solo tu nombre de usuario en bitbucket o dejar en blanco
-  twitter: '@john' # solo tu nombre de usuario en twitter o dejar en blanco
+  linkedin: Erick Cuevas Ceballos # solo tu nombre de usuario de linkedin o dejar en blanco
+  github: eCuevasCeballos # solo tu nombre de usuario en github o dejar en blanco
+  gitlab: # solo tu nombre de usuario en gitlab o dejar en blanco
+  bitbucket: # solo tu nombre de usuario en bitbucket o dejar en blanco
+  twitter: # solo tu nombre de usuario en twitter o dejar en blanco
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -28,7 +28,7 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: B1 Intermediate # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: B2 Intermediate # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
@@ -54,46 +54,54 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    As a Computer Systems Engineering student with a deep passion for technology and programming, I have a keen interest in web, backend and frontend programming. As an autodidact programmer, I have a love for learning and consistently seek to improve my skills by staying up to date with industry best practices and logical thinking. I am proactive, diligent, and thrive in collaborative environments, where I can share my knowledge and learn from others. My passion for technology stems from my belief that it has the potential to make us better individuals, coworkers, and productive members of society. As a future Senior Developer, I am looking for an innovative company here in Mexico, where I can leverage my creativity and problem-solving skills to make an impact in people's lives.
+   My name is Erick Cuevas. I currently reside in Colima, México. I am a passionate front-end web developer with a focus on HTML, CSS, JavaScript, and React.js. Bilingual in Spanish (native) and English, I believe effective communication is key to building successful projects. Collaborating with teams excites me, as I thrive in a dynamic and creative environment. As for my soft skills, I pride myself on being committed, proactive, and a reliable team player. I am driven by a desire to continuously learn and improve, allowing me to contribute positively to any project I work on.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Bachelor Degree
     university: Universidad de Colima
-    time: 2018 - 2022
+    time: 2019 - 2023
     details: |
       Facultad de Telemática - Software Engineer.
 
-  - degree: Python Certification
+  - degree: Responsive Real-World Websites with HTML and CSS
     university: Udemy
     time: 2022
     details: |
-      300 hrs course certification.
+      38 hrs course certification.
+  
+  - degree: The Complete JavaScript Course
+    university: Udemy
+    time: 2023
+    details: |
+      69 hrs course certification.
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: React Native Developer
-    time: Feb 2022 - Present
-    company: Bright Coders, Mexico
-    details: |
-      Develop native applications with technologies such as Javascript and React Native, 
-      while implementing good practices, test-based development, tools for managing local 
-      and remote repositories. In addition to developing fundamental skills in software development 
-      such as teamwork and effective communication using an agile methodology.
 
-  - role: Project Name
-    time: Sep 2021 - Jan 2022
-    company: BrightCoders
+  - role: Shipping Manager
+    time: Dec 2020 - Jan 2022
+    company: Binden
     details: |
-      My role was to design the views with Figma and use React Native for the development of o mobile app designed for... I worked remotely with other 3 team members.
+      Managed orders from multiple e-commerce platforms via SAP.
 
-  - role: Full Stack Developer
-    time: Feb 2021 - Aug 2021
-    company: Company Name
+  - role: Intern Automation engineer
+    time: Jan 2023 - June 2023
+    company: Roboyo Mexico
     details: |
-      My role was to create the layout for the website in a responsive way, 
-      create the database logic with SQL, develop the frontend part with jQuery
-      and the backend with PHP and its Codeigniter framework.
+     I implemented a few automation bots, including automated email sending, extraction of relevant information from informational pages, and various  Excel automation projects.
+
+  - role: React Web Developer
+    time: Oct 2023 - Mar 2024
+    company: Freelancer
+    details: |
+      I did a few freelancing jobs for different clients, mostly landing pages.
+
+  - role: Managed Services Agent
+    time: Mar 2023 - Present
+    company: Roboyo Mexico
+    details: |
+      Monitor different automations bots and solve any issues with them
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -105,20 +113,30 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
+    - name: HTML
+      level: 80%
+      level-name: Proficient
+      time: 1 year
+
+    - name: CSS
+      level: 60%
+      level-name: Competent
+      time: 1 year
+    
     - name: Javascript
-      level: 20%
-      level-name: Novice
-      time: 6 months
+      level: 60%
+      level-name: Competent
+      time: 1 year
 
     - name: React
-      level: 40%
-      level-name: Advanced beginner
+      level: 70%
+      level-name: Competent
       time: 1 year
 
     - name: React Native
-      level: 80%
-      level-name: Proficient
-      time: 2+ years
+      level: 30%
+      level-name: Competent
+      time: 4 months
 
 # NO MODIFICAR
 footer: >
